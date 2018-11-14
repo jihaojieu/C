@@ -2,7 +2,7 @@
 #include <stdlib.h>
 int main() {
 	int arr[] = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
-	int to_find = 13;
+	int to_find = 3;
 	int left = 0;
 	int right = sizeof(arr) / sizeof(arr[0]) - 1;
 	int mid = 0;
