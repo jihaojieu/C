@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "打印100-200之间的素数.c", "打印100-200之间的素数.c\打印100-200之间的素数.c.vcxproj", "{77C8700B-8B49-4F42-AE87-A5AC7F9F1937}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77C8700B-8B49-4F42-AE87-A5AC7F9F1937}.Debug|Win32.ActiveCfg = Debug|Win32
+		{77C8700B-8B49-4F42-AE87-A5AC7F9F1937}.Debug|Win32.Build.0 = Debug|Win32
+		{77C8700B-8B49-4F42-AE87-A5AC7F9F1937}.Release|Win32.ActiveCfg = Release|Win32
+		{77C8700B-8B49-4F42-AE87-A5AC7F9F1937}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
