@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "求三角形的面积", "求三角形的面积\求三角形的面积.vcxproj", "{D5951C1D-71C8-49A0-BBD8-32CD6434EF73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5951C1D-71C8-49A0-BBD8-32CD6434EF73}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D5951C1D-71C8-49A0-BBD8-32CD6434EF73}.Debug|Win32.Build.0 = Debug|Win32
+		{D5951C1D-71C8-49A0-BBD8-32CD6434EF73}.Release|Win32.ActiveCfg = Release|Win32
+		{D5951C1D-71C8-49A0-BBD8-32CD6434EF73}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
