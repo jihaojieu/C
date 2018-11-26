@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{88842002-16C8-4823-806B-50BF2D8883AF}</ProjectGuid>
-    <RootNamespace>求ax∧2bxc0方程的根</RootNamespace>
+    <ProjectGuid>{9DA03ACD-616C-4725-B436-FC24B734A294}</ProjectGuid>
+    <RootNamespace>打印一个整数的每一位</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
