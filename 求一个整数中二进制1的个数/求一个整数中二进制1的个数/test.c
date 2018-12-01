@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
-// ½öÏŞÓÚÕıÊı£¬ÒòÎª¸ºÊı % 2 ÊÇ -1
+// ä»…é™äºæ­£æ•°ï¼Œå› ä¸ºè´Ÿæ•° % 2 æ˜¯ -1
 //int BitOneCount(int num) {
 //	int count = 0;
 //	while (num) {
@@ -12,7 +12,9 @@
 //	}
 //	return count;
 //}
-// È·±£Ã¿Ò»Î»¶¼½øĞĞ¹ı±È½Ï£¬µÚ i Î»ÊÇ·ñÎª 1
+
+// å’Œ1è¿›è¡Œ&æ“ä½œå¯å›¾å¾—åˆ°è¯¥ä½ä¸Šçš„äºŒè¿›åˆ¶å€¼
+// ç¡®ä¿æ¯ä¸€ä½éƒ½è¿›è¡Œè¿‡æ¯”è¾ƒï¼Œç¬¬ i ä½æ˜¯å¦ä¸º 1
 int BitOneCount(int num) {
 	int count = 0;
 	for (int i = 1; i <= 32; ++i) {
